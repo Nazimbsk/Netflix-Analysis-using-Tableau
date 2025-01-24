@@ -40,7 +40,7 @@ Le tableau de bord permet de :
 🔹 **Afficher les 10 genres les plus populaires** et leur répartition  
 
 ## 🖼 **Aperçu du tableau de bord**  
-![Netflix Dashboard]([https://github.com/user-attachments/assets/d4ed01a0-d2b2-48cc-8521-1793f890e2f3](https://github.com/Nazimbsk/Netflix-Analysis-using-Tableau/blob/main/projet_netflix.png?raw=true))  
+![Netflix Dashboard](https://github.com/Nazimbsk/Netflix-Analysis-using-Tableau/blob/main/projet_netflix.png?raw=true)  
 
 
 ## 🔗 **Liens utiles**  
